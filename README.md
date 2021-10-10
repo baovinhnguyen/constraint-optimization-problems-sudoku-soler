@@ -1,4 +1,4 @@
-# Sudoku-Solver-using-a-Constraint-Optimization-Problems-approach
+# Sudoku-Solver-using-a-Constraint-Satisfaction-Problems-approach
 
 Purpose: To write a Sudoku puzzle solver using a CSP approach that can calculate the solutions. 
 
